@@ -22,15 +22,6 @@ $filmler = array(
         "url" => "Walking-Dead"
     ),
     "3" => array(
-        "baslik" => "Walking Dead",
-        "aciklama" => "Zombi kıyametinin ardından hayatta kalanlar, birlikte verdikleri ölüm kalım mücadelesinde insanlığa karşı duydukları umuda tutunur.",
-        "resim" => "2.jpeg",
-        "yorumSayisi" => "55",
-        "begeniSayisi" => "0",
-        "vizyon" => false,
-        "url" => "Walking-Dead"
-    ),
-    "4" => array(
         "baslik" => "Esaretin Bedeli",
         "aciklama" => "Genç ve başarılı bir bankacı olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir.",
         "resim" => "4.jpeg",
