@@ -1,0 +1,3 @@
+film 1|film 1 açıklama|1.jpeg|film-1|0|0|0
+film 2|film 2 açıklama|2.jpeg|film-2|0|0|0
+film 3|film 3 açıklama|3.jpeg|film-3|0|0|0
